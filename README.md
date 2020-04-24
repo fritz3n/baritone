@@ -45,6 +45,15 @@ Have committed at least once a day from Aug 1 2018 to Aug 1 2019.
 
 1Leijurv3DWTrGAfmmiTphjhXLvQiHg7K2
 
+# Installation
+
+### Automatic Installation
+For a simple and automatic installation download the [Automatic-Installer.exe](https://github.com/fritz3n/baritone/releases/download/v1.5.4/Automatic-Installer.exe).
+It will download and install Baritone into your Minecraft directory.
+
+
+
+
 # Getting Started
 
 Here are some links to help to get started:
@@ -91,3 +100,7 @@ Magic. (Hours of [leijurv](https://github.com/leijurv/) enduring excruciating pa
 ## Why is it called Baritone?
 
 It's named for FitMC's deep sultry voice. 
+
+## How do I manually install Baritone?
+
+Copy the contents of [Manual-Install.zip](https://github.com/fritz3n/baritone/releases/download/v1.5.4/Manual-Install.zip) into `%Appdata%\.minecraft\versions`.
